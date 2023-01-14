@@ -1,1 +1,9 @@
+Car Price Prediction
+
+First of all car data file is pre-processed and then train test split is done .
+Now we use Linear and Lasso Regression model  for generating car price by using this trained data.
+Libraries used:
+1.	Pandas
+2.	Matplotlib
+3.	Seaborn
 
